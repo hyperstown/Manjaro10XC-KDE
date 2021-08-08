@@ -2,29 +2,15 @@
 
 Manjaro10XC kde is a light clean theme for KDE Plasma desktop.
 
+It's based on We10XOS: https://github.com/yeyushengfan258/We10XOS-kde
+
 In this repository you'll find:
 
 - Aurorae Themes
 - Kvantum Themes
 - Plasma Color Schemes
 - Plasma Desktop Themes
-- Plasma Look-and-Feel Settings
-
-- Added a desktop layout, just like the desktop layout in the figure, people who need can use
-
-  Usage:
-  
-  Replacement:/.config/plasma-org.kde.plasma.desktop-appletsrc
-
-- Prompt
-  
-  Before replacement, save the current desktop , to avoid losses
-  
- 
- - Fix lock screen black screen problem
- -  Add wallpapers and configuration files
-    After selecting your favorite color wallpaper, remove the suffix color abbreviation and install it
-  
+- Plasma Look-and-Feel Settings 
 
 ## Installation
 
@@ -35,15 +21,4 @@ In this repository you'll find:
 ## License
 
 GNU GPL v3
-
-## view
-![view](View-1.png?raw=true)
-![view](View-2.png?raw=true)
-![view](View-3.png?raw=true)
-![view](View-4.png?raw=true)
-
-## Additional videos about KDE, Blur and themes:
-
-https://www.youtube.com/watch?v=MLho4Q14hMw
-https://www.youtube.com/watch?v=86ro5Q0Fi34
 
